@@ -10,7 +10,9 @@
 
 **Stack:** [apps/www](https://github.com/) — Astro 5.7 on Vercel, in the Versey Turborepo (pnpm + Turbo)
 
-**Status:** Filled
+**Status:** Archived
+
+_Archived on 2026-11-02. Previous status: Filled. Retained for reference; not accepting applications._
 
 ---
 
