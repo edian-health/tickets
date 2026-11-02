@@ -5,7 +5,9 @@
 **Rate:** $70–95/hr (senior ML/backend contractor, London/remote market)
 **Location:** Remote (London-friendly hours)
 **Stack:** fireworks, next.js, react, braintrust, typescript
-**Status:** Open
+**Status:** Archived
+
+_Archived on 2026-11-02. Previous status: Open. Retained for reference; not accepting applications._
 
 ---
 
