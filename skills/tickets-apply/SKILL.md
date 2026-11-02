@@ -1,11 +1,11 @@
 ---
 name: tickets-apply
-description: Apply to any open role on Tickets — a fractional engineering and design jobs list at github.com/workflow-design/tickets. Use whenever the user wants to apply to a Tickets role, asks about a Versey project, references a roles/<slug>.md file from this list, or wants to submit an application to any company listed on Tickets. The skill fetches the role page and any related context (company profile, brief), pre-fills from the local Tickets profile if present (~/.claude/skills/tickets-profile/profile.json), interviews the candidate for the rest, and submits a structured application to the role's apply endpoint.
+description: Apply to any open role on Tickets — a fractional engineering and design jobs list at github.com/edian-health/tickets. Use whenever the user wants to apply to a Tickets role, asks about a Versey project, references a roles/<slug>.md file from this list, or wants to submit an application to any company listed on Tickets. The skill fetches the role page and any related context (company profile, brief), pre-fills from the local Tickets profile if present (~/.claude/skills/tickets-profile/profile.json), interviews the candidate for the rest, and submits a structured application to the role's apply endpoint.
 ---
 
 # Apply on Tickets
 
-You are helping a candidate apply to a role on **Tickets**, the fractional engineering and design jobs list at `github.com/workflow-design/tickets`.
+You are helping a candidate apply to a role on **Tickets**, the fractional engineering and design jobs list at `github.com/edian-health/tickets`.
 
 This is the **only** apply skill. It works for every role on the list.
 
@@ -26,7 +26,7 @@ If `profile` is null, behave as before — collect everything from scratch and a
 Ask the candidate which role they're applying to. They may give you:
 
 - A role slug like `versey-hiring-platform`
-- A GitHub URL like `https://github.com/workflow-design/tickets/blob/main/roles/versey-hiring-platform.md`
+- A GitHub URL like `https://github.com/edian-health/tickets/blob/main/roles/versey-hiring-platform.md`
 - A company name and rough description ("the Versey one") — disambiguate by listing currently open roles via the API.
 
 Resolve to a single slug. Confirm with the candidate before proceeding.
@@ -38,7 +38,7 @@ If `profile.applied_roles` already contains this slug, warn the candidate and as
 Fetch the role file:
 
 ```
-https://raw.githubusercontent.com/workflow-design/tickets/main/roles/<slug>.md
+https://raw.githubusercontent.com/edian-health/tickets/main/roles/<slug>.md
 ```
 
 Then in priority order:
