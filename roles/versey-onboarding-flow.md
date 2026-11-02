@@ -3,10 +3,10 @@
 **Company:** [Versey](../companies/versey.md)
 **Type:** Product + Design + Engineering
 **Stakeholder:** [Will Taylor, CEO](https://www.linkedin.com/in/wrftaylor/)
-**Rate:** $200–375/hr (L5 → L6 band, full-stack product premium)
-**Minimum earning per ticket:** $4k (~2 days at the L5 floor)
-**Seniority:** Senior to Staff (L5–L6) — match the candidate to the work
-**Rate verified:** levels.fyi · blended Senior+ SWE + Product Manager + Product Designer · SF Bay Area · L5–L6 · P50 · fetched 2026-04-27
+**Location:** Remote (London-friendly hours)
+**Rate:** $70–100/hr (senior generalist contractor, London/remote market)
+**Minimum earning per ticket:** $2k
+**Seniority:** Senior generalist who can wear three hats — product, design, engineering
 **Stack:** `apps/web` — Next.js 16, React 19, Tailwind 4, Supabase auth, AI SDK (Anthropic / OpenAI / Google / Perplexity), in the Versey Turborepo
 **Estimated hours:** ~60–100 hrs over 4–6 weeks (spec → design → implementation, behind a feature flag, with activation-rate instrumentation)
 **Status:** Coming soon
@@ -38,15 +38,15 @@ Annotated screenshots of the existing flow, friction-point hypotheses, and a 1-w
 
 ## How to apply
 
-### Apply in Claude
+### Apply in Claude Code
 
 ```bash
 mkdir -p ~/.claude/skills/tickets-apply
-curl -fsSL https://raw.githubusercontent.com/workflow-design/tickets/main/skills/tickets-apply/SKILL.md \
+curl -fsSL https://raw.githubusercontent.com/edian-health/tickets/main/skills/tickets-apply/SKILL.md \
   -o ~/.claude/skills/tickets-apply/SKILL.md
 ```
 
-Then in Claude:
+Then in Claude Code:
 
 ```
 Apply to versey-onboarding-flow on Tickets

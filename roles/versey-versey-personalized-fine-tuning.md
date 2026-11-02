@@ -2,8 +2,8 @@
 
 **Company:** [Versey](../companies/versey.md)
 **Type:** Engineering — Fractional, ~3–4 days
-**Rate:** $175–225/hr
-**Location:** Remote
+**Rate:** $70–95/hr (senior ML/backend contractor, London/remote market)
+**Location:** Remote (London-friendly hours)
 **Stack:** fireworks, next.js, react, braintrust, typescript
 **Status:** Open
 
@@ -13,9 +13,7 @@ Wire up per-user fine-tuning on Versey: users drop in reference files, we fine-t
 
 **Stakeholder:** [Will Taylor, CEO](https://www.linkedin.com/in/wrftaylor/)
 
-**Minimum earning per ticket:** $2.5k (~2 days at the stated rate)
-
-**Rate verified:** levels.fyi · Software Engineer · SF Bay Area · P50 · fetched 2026-05-08 · https://www.levels.fyi/t/software-engineer/locations/san-francisco-bay-area
+**Minimum earning per ticket:** $1.5k
 
 **Estimated hours:** ~3–4 days
 
@@ -31,7 +29,7 @@ The hard part: making cost and performance observable in a way that scales when 
 
 - Self-managed work — you own the architecture decisions, not someone else's ticket
 - Fireworks + Braintrust + Next.js, no legacy to fight
-- Successful trial → ongoing fractional work with Versey at SF rates
+- Successful trial → ongoing fractional work with Versey
 
 ## What we're looking for
 
@@ -46,15 +44,15 @@ Dive in and set up the pipeline end to end: a user can drop reference files, a f
 
 ## How to apply
 
-All roles on Tickets use the universal `tickets-apply` skill. Standard install:
+All roles on Tickets use the universal `tickets-apply` skill, run from inside Claude Code. Standard install:
 
 ```bash
 mkdir -p ~/.claude/skills/tickets-apply
-curl -fsSL https://raw.githubusercontent.com/workflow-design/tickets/main/skills/tickets-apply/SKILL.md \
+curl -fsSL https://raw.githubusercontent.com/edian-health/tickets/main/skills/tickets-apply/SKILL.md \
   -o ~/.claude/skills/tickets-apply/SKILL.md
 ```
 
-Then in Claude:
+Then in Claude Code:
 
 ```
 Apply to versey-versey-personalized-fine-tuning on Tickets

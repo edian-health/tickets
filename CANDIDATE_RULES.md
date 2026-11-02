@@ -1,66 +1,49 @@
-# Ground Rules for Candidates
+# Working with Tickets — for candidates
 
-**Heads up:** Tickets is provided as-is. We accept no liability for your use of it — including any role you apply to, any employer you engage with, or any outcome that follows.
+Tickets is a marketplace for fractional engineering, design, product, and founding-operator work. The people posting here are running real teams, and we want this to be a place where it's worth your time to apply.
 
-Tickets is a community list of fractional engineering, design, product, and founding-operator projects. By subscribing for alerts, applying to a role, or otherwise using this list, you agree to these terms.
+By subscribing, applying, or otherwise using the marketplace, you're agreeing to a small set of expectations. They keep this a place employers actually want to post to.
 
-## 1. What we do
+## What employers can expect from you
 
-- We accept role listings from employers, lightly review them for fit and clarity, and publish them to this public repository.
-- We may email subscribers when a new role matches the disciplines and stack they specified.
-- We forward applications submitted via the `tickets-apply` skill (or any other channel we support) to the employer who posted the role, typically by creating an issue in their tracking system.
+- **Honesty about you.** Don't misrepresent your experience, skills, identity, or availability. Don't share links you don't own or didn't help build. No fake portfolios.
+- **Respect for their time.** If you accept an interview, show up. If you accept a project, do the work — or tell them straight away if you can't.
+- **Good-faith applications.** No mass-applying, no scraping, no harassing employers, no applying to projects you don't actually want.
+- **Confidentiality.** If an employer shares non-public information with you while you're talking or working, treat it as theirs.
+- **A lawful engagement.** Follow the labour, tax, anti-discrimination, IP, and data-protection law that applies to you and to them. Make sure you have the right to work as a contractor, and that your current contract (if you have one) lets you take this on.
 
-## 2. What we don't do
+If you can't, this isn't the right marketplace for you — we may remove a subscriber, decline to forward an application, or block future submissions.
 
-- We do not employ, contract, hire, or pay you. The work relationship is entirely between you and the employer.
-- We do not vet, screen, vouch for, or guarantee any employer or any role on this list. Employer trust signals on company profiles come from the employer; verify them yourself.
-- We do not negotiate rates, draft contracts, hold funds, mediate disputes, or handle invoicing.
-- We do not guarantee that you will hear back from an employer, that any role will be filled, or that any work will lead to paid engagement, follow-on work, or full-time employment.
-- We do not guarantee uptime or availability of the list, the apply or subscribe skills, the applications API, or the alerts pipeline.
-- We do not provide legal, tax, immigration, employment, or compliance advice.
+## What you can expect from us
 
-## 3. Conduct expected of candidates
+- We read every project that comes in, give it a light review for clarity, and publish it.
+- We email you when a new project matches the disciplines and stack you set up — one message per match, no marketing digests.
+- We forward your applications (via the `tickets-apply` skill or any other channel we support) to the employer who posted the project, usually as an issue in their tracker.
 
-By subscribing or applying, you agree to:
+What we don't do: employ, contract, or pay you; vet or vouch for any employer or project; negotiate rates or contracts; hold funds; mediate disputes; handle invoicing; or guarantee that you'll hear back, that a project will be filled, or that work will lead to more work. Employer trust signals on company profiles come from the employers — verify what matters to you. We don't give legal, tax, immigration, employment, or compliance advice.
 
-- **Be honest.** Don't misrepresent your experience, skills, identity, or availability. Don't submit links you don't own or didn't help create. Don't generate fake portfolios.
-- **Respect employer time.** If you accept an interview, show up. If you accept a project, do the work or tell the employer promptly that you can't.
-- **Comply with applicable law** in your jurisdiction and the employer's, including labour, tax, anti-discrimination, IP, and data protection law. Make sure you have the right to work as a contractor, and that any current employer's contract permits the engagement.
-- **Don't apply in bad faith.** No mass-applying, scraping the list, harassing employers, or applying to roles you have no intention of doing.
-- **Honour confidentiality.** If an employer shares non-public information with you during the application or work, treat it as confidential.
+The work relationship is between you and the employer. We're the marketplace, not the employer.
 
-We may remove a subscriber, decline to forward an application, or block future submissions at our discretion.
+## Your data
 
-## 4. Your data
+- **What we hold.** When you subscribe: your name, email, disciplines, stack, and any optional fields you give us (rate, availability, current role, links). When you apply: your name, email, the project you applied to, and the application package you submitted (links, pitch, CV URL, notes).
+- **What we do with it.** Subscriptions are stored so we can email you about matching projects. Applications are forwarded to the employer for that project and stored alongside our records of the listing.
+- **Who sees it.** Subscriber data: us. Application data: the employer for that project, and us. We don't sell, share, or repurpose your data beyond this.
+- **Email.** One message per match. Reply UNSUBSCRIBE any time and we'll take you off within a reasonable window.
+- **Deletion.** Email the maintainers (in the README) and we'll remove your subscription or any application records we hold. We may keep minimal logs for legitimate operational reasons.
 
-- **What we collect.** When you subscribe: name, email, disciplines, stack, plus optional fields you provide (rate, availability, current role, links). When you apply: name, email, the role you're applying to, plus the package fields you provide (links, pitch, CV URL, notes).
-- **What we do with it.** Subscriptions are stored so we can email you about matching roles. Applications are forwarded to the employer who posted the role and stored alongside our records of the listing.
-- **Who sees it.** Subscriber data: us. Application data: the employer for that role, and us. We don't sell, share, or repurpose your data beyond this.
-- **Email frequency.** One message per role match, no marketing digests. Unsubscribe anytime by replying UNSUBSCRIBE — we'll remove you within a reasonable time.
-- **Deletion.** Email the maintainers (contact in the repo README) to delete your subscription or any application records we hold. We may keep minimal logs for legitimate operational purposes.
+You're responsible for what you send us. Please don't include other people's personal information in your application without their okay.
 
-You are responsible for the accuracy of what you submit. Don't include other people's personal data in your application without their consent.
+## The fine print
 
-## 5. No liability
+Tickets — including this marketplace, the skills, the API, the alerts, and any communication routed through us — is provided as-is, with no warranties of any kind. To the fullest extent the law allows, Tickets and its contributors aren't liable for any direct, indirect, incidental, consequential, special, exemplary, or punitive damages — including lost income, lost opportunities, employer non-payment, employer misconduct, contract disputes, or anything else arising from your use of the marketplace. If you're unhappy with us, the remedy is to stop using us.
 
-The list, the skills, the API, the alerts, and any communication routed through Tickets are provided "as is" and "as available," with no warranties of any kind, express or implied, including merchantability, fitness for a particular purpose, accuracy, or non-infringement.
+You agree to cover any claim, loss, or expense that comes from your use of the marketplace, your conduct toward employers or other candidates, or your contractual relationship (or lack of one) with anyone you meet through Tickets.
 
-To the maximum extent permitted by law, Tickets and its contributors are not liable for any direct, indirect, incidental, consequential, special, exemplary, or punitive damages — including lost income, lost opportunities, employer non-payment, employer misconduct, contract disputes, or any other claim — arising out of or related to your use of this list. Your sole remedy if you are dissatisfied is to stop using the list.
+When you submit anything (subscription details, applications, pitches, links, notes), you give Tickets a non-exclusive, worldwide, royalty-free licence to host it, store it, forward it to the relevant employer, and process it for the purpose of running the marketplace. You keep ownership of your content. We may remove content at any time. You're confirming that what you send is yours to share, doesn't infringe anyone's rights, and doesn't include confidential information from a third party.
 
-## 6. Indemnity
+We may update these terms by changing this file. Carrying on using the marketplace after that means you're okay with the new version.
 
-You agree to indemnify and hold harmless Tickets and its contributors from any claim, loss, or expense arising from your use of the list, your conduct toward employers or other candidates, or any contractual relationship (or lack thereof) between you and an employer sourced through this list.
+## Get in touch
 
-## 7. Content licence
-
-Anything you submit (subscription details, applications, pitches, links, notes) you license to Tickets on a non-exclusive, worldwide, royalty-free basis to host, store, forward to the relevant employer, and process for the purpose of operating the list. You retain ownership of your content. We may remove content at any time.
-
-You confirm that everything you submit is yours to share, doesn't infringe anyone's rights, and doesn't include confidential information from any third party.
-
-## 8. Changes
-
-We may change these terms at any time by updating this file. Continued use of the list after changes means you accept the updated terms.
-
-## 9. Contact
-
-Questions, deletion requests, or to flag a problem with a listing or employer: open an issue on [github.com/workflow-design/tickets](https://github.com/workflow-design/tickets).
+Questions, deletion requests, or want to flag a problem with a listing or employer — open an issue on [github.com/edian-health/tickets](https://github.com/edian-health/tickets).

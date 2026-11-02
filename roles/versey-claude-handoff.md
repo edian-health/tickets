@@ -2,7 +2,8 @@
 
 **Company:** [Versey](../companies/versey.md)
 **Type:** Product — Backend + Product Engineering
-**Rate:** $200–400/hr (L5 → L6 band, AI integration premium)
+**Location:** Remote (London-friendly hours)
+**Rate:** $75–100/hr (senior AI integration contractor, London/remote market)
 **Stack:** apps/web API routes (Next.js 16) + a Claude skill or MCP server. The app already uses Anthropic SDK, AI SDK, LangChain/LangGraph, and Mastra — pick the right tool for the contract.
 **Status:** Open
 
@@ -36,15 +37,15 @@ Skill (or MCP tool) prototype that bundles a defined working artifact, POSTs to 
 
 ## How to apply
 
-All roles on Tickets use the universal `tickets-apply` skill. Standard install:
+All roles on Tickets use the universal `tickets-apply` skill, run from inside Claude Code. Standard install:
 
 ```bash
 mkdir -p ~/.claude/skills/tickets-apply
-curl -fsSL https://raw.githubusercontent.com/workflow-design/tickets/main/skills/tickets-apply/SKILL.md \
+curl -fsSL https://raw.githubusercontent.com/edian-health/tickets/main/skills/tickets-apply/SKILL.md \
   -o ~/.claude/skills/tickets-apply/SKILL.md
 ```
 
-Then in Claude:
+Then in Claude Code:
 
 ```
 Apply to versey-claude-handoff on Tickets

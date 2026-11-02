@@ -2,7 +2,8 @@
 
 **Company:** [Versey](../companies/versey.md)
 **Type:** Design — Product + Design + Frontend
-**Rate:** $150–225/hr (L4 → L5 band)
+**Location:** Remote (London-friendly hours)
+**Rate:** $50–80/hr (mid product/frontend contractor, London/remote market)
 **Stack:** apps/web — Next.js 16, React 19, Tailwind 4. There's an existing scripts/build-tutorials.mjs scaffold to inherit and extend.
 **Status:** Open
 
@@ -33,15 +34,15 @@ Tutorial flow for the single most-important mechanic, behind a feature flag, wit
 
 ## How to apply
 
-All roles on Tickets use the universal `tickets-apply` skill. Standard install:
+All roles on Tickets use the universal `tickets-apply` skill, run from inside Claude Code. Standard install:
 
 ```bash
 mkdir -p ~/.claude/skills/tickets-apply
-curl -fsSL https://raw.githubusercontent.com/workflow-design/tickets/main/skills/tickets-apply/SKILL.md \
+curl -fsSL https://raw.githubusercontent.com/edian-health/tickets/main/skills/tickets-apply/SKILL.md \
   -o ~/.claude/skills/tickets-apply/SKILL.md
 ```
 
-Then in Claude:
+Then in Claude Code:
 
 ```
 Apply to versey-interactive-tutorials on Tickets

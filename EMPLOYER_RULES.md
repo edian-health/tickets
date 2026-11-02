@@ -1,54 +1,39 @@
-# Ground Rules for Employers
+# Working with Tickets — for employers
 
-**Heads up:** Tickets is provided as-is. We accept no liability for your use of it — including any candidate you engage with, any hire you make, or any outcome that follows.
+Tickets is a marketplace for fractional engineering, design, product, and founding-operator work. The people you hire here are running their own businesses, so the way we work together matters.
 
-Tickets is a community list of fractional engineering and design projects. By submitting a project — whether by pull request, email, or any other channel — you agree to these terms.
+By posting a project, you're agreeing to a small set of expectations. They keep this a place candidates actually want to apply to.
 
-## 1. What we do
+## What candidates can expect from you
 
-We accept role submissions, lightly review them for fit and clarity, merge accepted listings into this public repository, and may email summaries of new listings to people on our applicant list.
+- **Honesty about the work.** Describe the project, the rate, and the time commitment as they really are. If something changes, tell them.
+- **Pay on time.** If you've agreed to pay for work, pay on the schedule you agreed.
+- **Respect for their time.** Reply to applicants you're interested in within a reasonable window. Tell candidates you have interviewed promptly and kindly when you decide not to proceed.
+- **Care with their data.** Use applicant information to evaluate the role and talk about the work, nothing else. Don't pass it on, don't repurpose it.
+- **A safe, lawful engagement.** Follow the labour, tax, anti-discrimination, IP, and data-protection law that applies to you and to them. No work that's illegal, fraudulent, or that a reasonable person would call abusive.
 
-## 2. What we don't do
+If you can't meet these, this isn't the right marketplace for you — we may remove a listing or decline future ones.
 
-- We do not screen, vet, vouch for, employ, contract, or recommend any candidate.
-- We do not negotiate rates, draft contracts, handle payments, or hold funds.
-- We do not guarantee any volume, quality, or response from applicants.
-- We do not guarantee uptime or availability of this list, the apply-via-Claude skill, or the applications API.
-- We do not provide legal, tax, employment, immigration, or compliance advice.
+## What you can expect from us
 
-The hiring relationship is entirely between you and the candidate.
+- We read every project that comes in, give it a light review for clarity, and publish it to the marketplace.
+- We may email subscribers when a new project matches the disciplines and stack they've told us about.
+- We forward applications to you — usually as an issue in your tracker — so you can reply directly.
 
-## 3. Conduct expected of employers
+What we don't do: screen, vet, vouch for, employ, contract, or recommend candidates; negotiate rates or contracts; handle payments; mediate disputes; or guarantee response volume, quality, uptime, or that any role gets filled. We also don't give legal, tax, employment, immigration, or compliance advice — please get that from someone qualified.
 
-By posting a role, you agree to:
+The hiring relationship is between you and the person you hire. We're the marketplace, not the employer.
 
-- **Be honest.** Describe the work, the rate, and the time commitment accurately. Don't bait-and-switch.
-- **Pay on time.** If you agreed to pay for work, pay for it on the agreed schedule.
-- **Respect candidates' time.** Respond to applicants you intend to hire within a reasonable window. Inform candidates you have interviewed promptly if you decide not to proceed.
-- **Comply with applicable law** in your jurisdiction and the candidate's — including labour, tax, anti-discrimination, IP, and data protection law.
-- **Hold candidate data appropriately.** Use applicant information only to evaluate the application and to communicate about the role. Don't sell, share, or repurpose it.
-- **No illegal, fraudulent, or harmful work.** No requests that violate law, infringe third-party rights, or that a reasonable person would consider abusive.
+## The fine print
 
-We may remove any listing, and decline future submissions, at our discretion.
+Tickets — including this marketplace, the skills, the API, and any communication routed through us — is provided as-is, with no warranties of any kind. To the fullest extent the law allows, Tickets and its contributors aren't liable for any direct, indirect, incidental, consequential, special, exemplary, or punitive damages — including lost profits, lost data, business interruption, mis-hires, contract disputes, candidate or employer conduct, or anything else arising from your use of the marketplace. If you're unhappy with us, the remedy is to stop using us.
 
-## 4. No liability
+You agree to cover any claim, loss, or expense that comes from your project posting, your conduct toward candidates, or your contractual relationship (or lack of one) with anyone you meet through Tickets.
 
-The list, the skill, the API, and any communication routed through Tickets are provided "as is" and "as available," with no warranties of any kind, express or implied, including merchantability, fitness for a particular purpose, accuracy, or non-infringement.
+When you submit a listing, you give Tickets a non-exclusive, worldwide, royalty-free licence to host, display, distribute, and email it for the purpose of running the marketplace. You keep ownership of your content. We may close, archive, or remove a listing at any time.
 
-To the maximum extent permitted by law, Tickets and its contributors are not liable for any direct, indirect, incidental, consequential, special, exemplary, or punitive damages — including lost profits, lost data, business interruption, mis-hires, contract disputes, candidate conduct, employer conduct, or any other claim — arising out of or related to your use of this list or anything submitted through it. Your sole remedy if you are dissatisfied is to stop using the list.
+We may update these terms by changing this file. Carrying on using the marketplace after that means you're okay with the new version.
 
-## 5. Indemnity
+## Get in touch
 
-You agree to indemnify and hold harmless Tickets and its contributors from any claim, loss, or expense arising from your role posting, your conduct toward candidates, or your contractual relationship (or lack thereof) with any candidate sourced through this list.
-
-## 6. Content licence
-
-By submitting a listing, you grant Tickets a non-exclusive, worldwide, royalty-free licence to host, display, distribute, and email the listing for the purpose of operating this list. You retain ownership of your content. We may close, archive, or remove the listing at any time.
-
-## 7. Changes
-
-We may change these terms at any time by updating this file. Continued use of the list after changes means you accept the updated terms.
-
-## 8. Contact
-
-Issues, questions, takedown requests: open an issue on [github.com/workflow-design/tickets](https://github.com/workflow-design/tickets).
+Questions, takedown requests, or anything else — open an issue on [github.com/edian-health/tickets](https://github.com/edian-health/tickets).

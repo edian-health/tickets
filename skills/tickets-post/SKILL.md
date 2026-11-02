@@ -1,6 +1,6 @@
 ---
 name: tickets-post
-description: Post a new role on Tickets — a fractional engineering and design jobs list at github.com/workflow-design/tickets. Use whenever an employer wants to post a project, list a role, hire a fractional engineer/designer through Tickets, or add a company profile. Accepts an existing job description (URL, Google Doc, Notion page, file path, or pasted text) and extracts what it can; falls back to a stakeholder-style interview only when no JD is provided. Drafts the listing in the Tickets voice and submits it to the Tickets backend.
+description: Post a new role on Tickets — a fractional engineering and design jobs list at github.com/edian-health/tickets. Use whenever an employer wants to post a project, list a role, hire a fractional engineer/designer through Tickets, or add a company profile. Accepts an existing job description (URL, Google Doc, Notion page, file path, or pasted text) and extracts what it can; falls back to a stakeholder-style interview only when no JD is provided. Drafts the listing in the Tickets voice and submits it to the Tickets backend.
 ---
 
 # Post on Tickets
@@ -254,7 +254,7 @@ Use this when the employer asks for more detail than the close paragraph above. 
 
 **Visibility**
 
-- The listing renders as a markdown file in the public `workflow-design/tickets` repo (the `url` returned by POST). The README index updates automatically.
+- The listing renders as a markdown file in the public `edian-health/tickets` repo (the `url` returned by POST). The README index updates automatically.
 - Subscribers whose `tickets-subscribe` profile matches the discipline + stack get an email alert.
 
 **Editing, pausing, closing**

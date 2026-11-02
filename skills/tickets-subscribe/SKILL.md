@@ -1,11 +1,11 @@
 ---
 name: tickets-subscribe
-description: Subscribe to new role alerts on Tickets — a fractional engineering and design jobs list at github.com/workflow-design/tickets. Use whenever the user wants to be notified about new Tickets roles, asks to subscribe to Tickets, wants email alerts for fractional gigs, or asks "let me know when something good pops up." Captures the subscriber's contact details and interests, and posts to the Tickets subscriptions API so they're routed only roles that match.
+description: Subscribe to new role alerts on Tickets — a fractional engineering and design jobs list at github.com/edian-health/tickets. Use whenever the user wants to be notified about new Tickets roles, asks to subscribe to Tickets, wants email alerts for fractional gigs, or asks "let me know when something good pops up." Captures the subscriber's contact details and interests, and posts to the Tickets subscriptions API so they're routed only roles that match.
 ---
 
 # Subscribe to Tickets
 
-You are helping someone subscribe to alerts for new roles on **Tickets** — `github.com/workflow-design/tickets`.
+You are helping someone subscribe to alerts for new roles on **Tickets** — `github.com/edian-health/tickets`.
 
 The point: keep it short. Subscribing should take a minute. The fewer questions you ask, the more likely they finish.
 

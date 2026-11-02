@@ -4,7 +4,9 @@
 
 **Type:** Engineering — Frontend Engineering
 
-**Rate:** $100–175/hr (L3 → L4 band)
+**Location:** Remote (London-friendly hours)
+
+**Rate:** $45–75/hr (junior-mid frontend contractor, London/remote market)
 
 **Stack:** [apps/www](https://github.com/) — Astro 5.7 on Vercel, in the Versey Turborepo (pnpm + Turbo)
 
@@ -38,15 +40,15 @@ _TODO — typical first deliverable (e.g. "hero + nav, deployed to a preview URL
 
 ## How to apply
 
-All roles on Tickets use the universal `tickets-apply` skill. Standard install:
+All roles on Tickets use the universal `tickets-apply` skill, run from inside Claude Code. Standard install:
 
 ```bash
 mkdir -p ~/.claude/skills/tickets-apply
-curl -fsSL https://raw.githubusercontent.com/workflow-design/tickets/main/skills/tickets-apply/SKILL.md \
+curl -fsSL https://raw.githubusercontent.com/edian-health/tickets/main/skills/tickets-apply/SKILL.md \
   -o ~/.claude/skills/tickets-apply/SKILL.md
 ```
 
-Then in Claude:
+Then in Claude Code:
 
 ```
 Apply to versey-homepage-astro on Tickets
