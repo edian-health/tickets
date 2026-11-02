@@ -8,7 +8,9 @@
 
 **Rate:** $75–100/hr (senior applied AI contractor, London/remote market)
 
-**Status:** Open
+**Status:** Archived
+
+_Archived on 2026-11-02. Previous status: Open. Retained for reference; not accepting applications._
 
 ---
 
