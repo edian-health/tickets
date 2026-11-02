@@ -5,7 +5,9 @@
 **Location:** Remote (London-friendly hours)
 **Rate:** $50–80/hr (mid product/frontend contractor, London/remote market)
 **Stack:** apps/web — Next.js 16, React 19, Tailwind 4. There's an existing scripts/build-tutorials.mjs scaffold to inherit and extend.
-**Status:** Open
+**Status:** Archived
+
+_Archived on 2026-11-02. Previous status: Open. Retained for reference; not accepting applications._
 
 ---
 
