@@ -3,10 +3,10 @@
 **Company:** [Versey](../companies/versey.md)
 **Type:** Design + Frontend
 **Stakeholder:** [Will Taylor, CEO](https://www.linkedin.com/in/wrftaylor/)
-**Rate:** $150–225/hr (L4 → L5 band)
-**Minimum earning per ticket:** $3k (~2 days at the L4 floor)
-**Seniority:** Mid to Senior (L4–L5) with motion specialism — specialism beats level here
-**Rate verified:** levels.fyi · Frontend Software Engineer (motion comparable) · SF Bay Area · L4–L5 · P50 · fetched 2026-04-27 · [levels.fyi/t/software-engineer/focus/front-end/locations/san-francisco-bay-area](https://www.levels.fyi/t/software-engineer/focus/front-end/locations/san-francisco-bay-area)
+**Location:** Remote (London-friendly hours)
+**Rate:** $55–85/hr (mid frontend contractor with motion specialism, London/remote market)
+**Minimum earning per ticket:** $1.5k
+**Seniority:** Mid to senior with motion specialism — specialism beats level here
 **Stack:** `apps/www` — Astro 5.7 on Vercel. Pairs naturally with the homepage Astro rebuild (`versey-homepage-astro`).
 **Estimated hours:** ~30–50 hrs (hero + 2–3 scroll-driven sections, behind a feature flag, with Lighthouse + conversion baselines)
 **Status:** Coming soon
@@ -38,15 +38,15 @@ Hero animation shipped behind a feature flag with before/after Lighthouse + conv
 
 ## How to apply
 
-### Apply in Claude
+### Apply in Claude Code
 
 ```bash
 mkdir -p ~/.claude/skills/tickets-apply
-curl -fsSL https://raw.githubusercontent.com/workflow-design/tickets/main/skills/tickets-apply/SKILL.md \
+curl -fsSL https://raw.githubusercontent.com/edian-health/tickets/main/skills/tickets-apply/SKILL.md \
   -o ~/.claude/skills/tickets-apply/SKILL.md
 ```
 
-Then in Claude:
+Then in Claude Code:
 
 ```
 Apply to versey-homepage-animations on Tickets
