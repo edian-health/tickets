@@ -5,7 +5,9 @@
 **Location:** Remote (London-friendly hours)
 **Rate:** $75–100/hr (senior AI integration contractor, London/remote market)
 **Stack:** apps/web API routes (Next.js 16) + a Claude skill or MCP server. The app already uses Anthropic SDK, AI SDK, LangChain/LangGraph, and Mastra — pick the right tool for the contract.
-**Status:** Open
+**Status:** Archived
+
+_Archived on 2026-11-02. Previous status: Open. Retained for reference; not accepting applications._
 
 ---
 
