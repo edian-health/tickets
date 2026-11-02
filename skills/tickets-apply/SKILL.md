@@ -26,7 +26,7 @@ If `profile` is null, behave as before — collect everything from scratch and a
 Ask the candidate which role they're applying to. They may give you:
 
 - A role slug like `versey-hiring-platform`
-- A GitHub URL like `https://github.com/edian-health/tickets/blob/main/roles/versey-hiring-platform.md`
+- A GitHub URL like `https://github.com/edian-health/tickets/blob/main/roles/tickets-hiring-platform.md`
 - A company name and rough description ("the Versey one") — disambiguate by listing currently open roles via the API.
 
 Resolve to a single slug. Confirm with the candidate before proceeding.
