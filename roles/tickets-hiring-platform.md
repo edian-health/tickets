@@ -2,9 +2,11 @@
 
 **Company:** [Tickets](../companies/tickets.md)
 
-**Type:** Engineering — Fractional AI Engineering · ongoing, ~10–20 hrs/week
+**Type:** Engineering — Applied AI Engineering · ongoing, ~5–20 hrs/week
 
-**Rate:** $200–400/hr (L5 → L6 band)
+**Location:** Remote (London-friendly hours)
+
+**Rate:** $75–100/hr (senior applied AI contractor, London/remote market)
 
 **Status:** Open
 
@@ -12,7 +14,7 @@
 
 ## What you'd build
 
-The candidate-side frontend already ships. [Tickets](https://github.com/workflow-design/tickets) is live, the `tickets-apply` and `tickets-subscribe` skills work, applications flow into Linear, Slack pings on submit. **You are not building that.**
+The candidate-side frontend already ships. [Tickets](https://github.com/edian-health/tickets) is live, the `tickets-apply` and `tickets-subscribe` skills work, applications flow into Linear, Slack pings on submit. **You are not building that.**
 
 You'd own the two pieces around it:
 
@@ -43,7 +45,7 @@ Defaults, not commandments. If you'd ship faster with a different choice, justif
 
 - **Real product, paid work routed weekly.** The pipeline you're automating is in production from day one. Mistakes hit real people; so do wins.
 - **Agent work with no committee.** One stakeholder, one PR, ship it. Decisions in Slack, not in design review.
-- **SF rates, no agency cut.** $150–200/hr, paid monthly on an itemized invoice. $2.5k minimum per ticket.
+- **No agency cut.** $75–100/hr, paid monthly on an itemized invoice. $2k minimum per ticket.
 - **Escalating scope.** Start with one ticket. If it ships well, the next is bigger. We escalate trust the same way we ask employers to.
 - **Write-up rights.** Outreach playbook, eval methodology, what worked — yours to publish with our blessing.
 
@@ -61,35 +63,19 @@ YC-alumni-caliber. Underemployed. Looking for work that uses what you can actual
 
 **Subscriber → role matching and dispatch.** When a new role lands in Linear, find subscribers whose `disciplines` and `stack` fields match, send each a personal-feeling email with the role link, log dispatch state on the role's Linear issue, and ship a short eval (precision/recall against a hand-labelled set Will provides).
 
-End-to-end, including the eval harness. ~$2.5k. If it ships well, ticket two is the outreach engine.
+End-to-end, including the eval harness. ~$2k. If it ships well, ticket two is the outreach engine.
 
 ## How to apply
 
-All roles on Tickets use the universal `tickets-apply` skill. Standard install:
+All roles on Tickets use the universal `tickets-apply` skill, run from inside Claude Code. Standard install:
 
 ```bash
 mkdir -p ~/.claude/skills/tickets-apply
-curl -fsSL https://raw.githubusercontent.com/workflow-design/tickets/main/skills/tickets-apply/SKILL.md \
+curl -fsSL https://raw.githubusercontent.com/edian-health/tickets/main/skills/tickets-apply/SKILL.md \
   -o ~/.claude/skills/tickets-apply/SKILL.md
 ```
 
-Then in Claude:
-
-```
-Apply to tickets-hiring-platform on Tickets
-```
-
-## How to apply
-
-All roles on Tickets use the universal `tickets-apply` skill. Standard install:
-
-```bash
-mkdir -p ~/.claude/skills/tickets-apply
-curl -fsSL https://raw.githubusercontent.com/workflow-design/tickets/main/skills/tickets-apply/SKILL.md \
-  -o ~/.claude/skills/tickets-apply/SKILL.md
-```
-
-Then in Claude:
+Then in Claude Code:
 
 ```
 Apply to tickets-hiring-platform on Tickets
