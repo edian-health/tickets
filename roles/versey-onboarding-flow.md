@@ -9,7 +9,9 @@
 **Seniority:** Senior generalist who can wear three hats — product, design, engineering
 **Stack:** `apps/web` — Next.js 16, React 19, Tailwind 4, Supabase auth, AI SDK (Anthropic / OpenAI / Google / Perplexity), in the Versey Turborepo
 **Estimated hours:** ~60–100 hrs over 4–6 weeks (spec → design → implementation, behind a feature flag, with activation-rate instrumentation)
-**Status:** Coming soon
+**Status:** Archived
+
+_Archived on 2026-11-02. Previous status: Coming soon. Retained for reference; not accepting applications._
 
 ---
 
