@@ -30,7 +30,14 @@ _You're absolutely hired!_
 
 <!-- TICKETS_OPEN_ROLES_START -->
 
-**8 open roles** · last synced 2026-05-08
+**0 open roles** · last updated 2026-11-02
+
+_No roles open right now._
+
+<details>
+<summary>Archived roles (9)</summary>
+
+These listings were archived on 2026-11-02. They are kept for reference and are not accepting applications. Historical rates and terms below are not current offers.
 
 | Role                                                                                                     | Company    | Type                                                               | Hourly rate                                            |
 | -------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------ | ------------------------------------------------------ |
@@ -43,6 +50,8 @@ _You're absolutely hired!_
 | [Automate Tickets' Hiring Backend + Outreach](./roles/tickets-hiring-platform.md)                        | Tickets    | Engineering — Applied AI Engineering · ongoing, ~5–20 hrs/week     | $75–100/hr  |
 | [Build a Creators Use-Case Sub-Page on Versey.ai](./roles/versey-creators-page.md)                       | Versey     | Design — Frontend + Copy + Design                                  | $50–80/hr   |
 | [Build the Claude → Versey Handoff Feature](./roles/versey-claude-handoff.md)                            | Versey     | Product — Backend + Product Engineering                            | $75–100/hr  |
+
+</details>
 
 <!-- TICKETS_OPEN_ROLES_END -->
 
