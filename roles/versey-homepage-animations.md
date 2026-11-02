@@ -9,7 +9,9 @@
 **Seniority:** Mid to senior with motion specialism — specialism beats level here
 **Stack:** `apps/www` — Astro 5.7 on Vercel. Pairs naturally with the homepage Astro rebuild (`versey-homepage-astro`).
 **Estimated hours:** ~30–50 hrs (hero + 2–3 scroll-driven sections, behind a feature flag, with Lighthouse + conversion baselines)
-**Status:** Coming soon
+**Status:** Archived
+
+_Archived on 2026-11-02. Previous status: Coming soon. Retained for reference; not accepting applications._
 
 ---
 
