@@ -5,7 +5,9 @@
 **Location:** Remote (London-friendly hours)
 **Rate:** $50–80/hr (mid frontend + copy contractor, London/remote market)
 **Stack:** apps/www — Astro 5.7 on Vercel. Same site as the homepage rebuild; sub-page lives under versey.ai/newsletter-writers (slug TBD).
-**Status:** Open
+**Status:** Archived
+
+_Archived on 2026-11-02. Previous status: Open. Retained for reference; not accepting applications._
 
 ---
 
