@@ -1,6 +1,6 @@
 # Automate Tickets' Hiring Backend + Outreach
 
-**Company:** [Tickets](../companies/tickets.md)
+**Company:** Tickets
 
 **Type:** Engineering — Applied AI Engineering · ongoing, ~5–20 hrs/week
 
