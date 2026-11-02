@@ -4,7 +4,9 @@
 
 **Type:** Engineering — Operations / Community Engineering
 
-**Rate:** $100–150/hr (L3 → L4 band)
+**Location:** Remote (London-friendly hours)
+
+**Rate:** $45–75/hr (junior-mid community-engineering contractor, London/remote market)
 
 **Stack:** Standalone — bot stack is the candidate's choice (Slack Bolt + TypeScript on Vercel is a sensible default; Workflow Builder for the no-code rituals)
 
@@ -37,15 +39,15 @@ _TODO — first deliverable. (e.g. "Workspace + initial channels stood up, welco
 
 ## How to apply
 
-All roles on Tickets use the universal `tickets-apply` skill. Standard install:
+All roles on Tickets use the universal `tickets-apply` skill, run from inside Claude Code. Standard install:
 
 ```bash
 mkdir -p ~/.claude/skills/tickets-apply
-curl -fsSL https://raw.githubusercontent.com/workflow-design/tickets/main/skills/tickets-apply/SKILL.md \
+curl -fsSL https://raw.githubusercontent.com/edian-health/tickets/main/skills/tickets-apply/SKILL.md \
   -o ~/.claude/skills/tickets-apply/SKILL.md
 ```
 
-Then in Claude:
+Then in Claude Code:
 
 ```
 Apply to versey-slack-community on Tickets
