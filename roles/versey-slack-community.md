@@ -10,7 +10,9 @@
 
 **Stack:** Standalone — bot stack is the candidate's choice (Slack Bolt + TypeScript on Vercel is a sensible default; Workflow Builder for the no-code rituals)
 
-**Status:** Open
+**Status:** Archived
+
+_Archived on 2026-11-02. Previous status: Open. Retained for reference; not accepting applications._
 
 ---
 
