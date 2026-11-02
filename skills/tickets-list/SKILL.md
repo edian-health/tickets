@@ -1,6 +1,6 @@
 ---
 name: tickets-list
-description: Browse open roles on Tickets — a fractional engineering and design jobs list at github.com/workflow-design/tickets. Use whenever the user wants to see what's currently open, search Tickets for a discipline (engineering, design, product) or company, find a role to apply to, or get a quick scan of available work. Read-only — fetches the live list from the Tickets API and prints a concise summary. Filters by the local Tickets profile (~/.claude/skills/tickets-profile/profile.json) when present.
+description: Browse open roles on Tickets — a fractional engineering and design jobs list at github.com/edian-health/tickets. Use whenever the user wants to see what's currently open, search Tickets for a discipline (engineering, design, product) or company, find a role to apply to, or get a quick scan of available work. Read-only — fetches the live list from the Tickets API and prints a concise summary. Filters by the local Tickets profile (~/.claude/skills/tickets-profile/profile.json) when present.
 ---
 
 # List on Tickets
@@ -84,7 +84,7 @@ One block per listing, separator between. Keep it scannable.
 
 Slug: {company_slug}-{slug}
 Apply: ask Claude "Apply to {company_slug}-{slug} on Tickets"
-Read:  https://github.com/workflow-design/tickets/blob/main/roles/{company_slug}-{slug}.md
+Read:  https://github.com/edian-health/tickets/blob/main/roles/{company_slug}-{slug}.md
 ```
 
 After the list, offer **one** next step based on what they seem to want:
@@ -105,7 +105,7 @@ Don't dump all of them — pick the one that fits.
 ## Edge cases
 
 - **`--all` arg:** skip steps 1–3 except the explicit-filter pass; show everything.
-- **API down (5xx or timeout):** Tell the user, fall back to `https://raw.githubusercontent.com/workflow-design/tickets/main/README.md` for a static list, note it may be stale.
+- **API down (5xx or timeout):** Tell the user, fall back to `https://raw.githubusercontent.com/edian-health/tickets/main/README.md` for a static list, note it may be stale.
 - **No filters match:** offer subscribe.
 - **User wants closed/filled roles:** add `&status=filled` or `&status=closed`. Filled roles can be useful as portfolio examples.
 - **User wants the raw JSON:** show the response unmodified (post-filter). Some users will want it for tooling.
