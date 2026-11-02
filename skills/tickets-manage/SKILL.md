@@ -81,7 +81,7 @@ Same endpoint, just change `status`:
 - `status: open` → reopen a paused or closed role.
 - `status: filled` → role found a hire. Visibility same as open.
 
-Pausing or closing removes the markdown file from the public `workflow-design/tickets` repo automatically. Reopening puts it back.
+Pausing or closing removes the markdown file from the public `edian-health/tickets` repo automatically. Reopening puts it back.
 
 You still need the full payload (title, discipline, body_md, etc.) — fetch from `/api/companies/listings` first, change `status`, POST.
 
