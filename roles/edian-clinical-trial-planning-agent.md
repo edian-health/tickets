@@ -36,4 +36,20 @@ The stack is Next.js, React, TypeScript, Tailwind and Supabase, with Anthropic i
 
 Location: London-based; remote work is fine. Project length 2-6 weeks at 20-40 hours/week. Rate: to agree.
 
+## How to apply
+
+All roles on Tickets use the universal `tickets-apply` skill. Standard install:
+
+```bash
+mkdir -p ~/.claude/skills/tickets-apply
+curl -fsSL https://raw.githubusercontent.com/workflow-design/tickets/main/skills/tickets-apply/SKILL.md \
+  -o ~/.claude/skills/tickets-apply/SKILL.md
+```
+
+Then in Claude:
+
+```
+Apply to edian-clinical-trial-planning-agent on Tickets
+```
+
 <!-- managed-by: tickets-listings-sync -->
