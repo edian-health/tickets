@@ -30,9 +30,11 @@ _You're absolutely hired!_
 
 <!-- TICKETS_OPEN_ROLES_START -->
 
-**0 open roles** · last updated 2026-11-02
+**1 open role** · last synced 2026-11-03
 
-_No roles open right now._
+| Role | Company | Type | Hourly rate |
+| --- | --- | --- | --- |
+| [Product Engineer - Clinical Trial Planning Agent](./roles/edian-clinical-trial-planning-agent.md) | Edian | Engineering — 2-6 weeks, 20-40 hrs/week | To agree |
 
 <details>
 <summary>Archived roles (9)</summary>
